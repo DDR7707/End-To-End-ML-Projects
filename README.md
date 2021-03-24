@@ -5,3 +5,5 @@
 2. Bulldozer price prediction model
 
 3. Unknown KNN Project
+
+4. Titanic Survival Prediction
