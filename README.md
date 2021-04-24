@@ -9,3 +9,5 @@
 4. Titanic Survival Prediction
 
 5. Website Churn Prediction (HackerEarth) (https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-customer-churn/)
+
+6. Kaggle House Rate Prediction (HackerEarth) (https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
