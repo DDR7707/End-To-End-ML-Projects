@@ -13,3 +13,5 @@
 6. [Website Churn Prediction](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-customer-churn/)
 
 7. [Kaggle House Rate Prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+
+8. Car Sales Basic Intuition model
