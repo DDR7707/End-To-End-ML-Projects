@@ -15,3 +15,5 @@
 7. [Kaggle House Rate Prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
 8. Car Sales Basic Intuition model
+
+9. .[Kaggle Bulldozer prediction model](https://www.kaggle.com/c/bluebook-for-bulldozers)
