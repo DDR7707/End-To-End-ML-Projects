@@ -16,4 +16,4 @@
 
 8. Car Sales Basic Intuition model
 
-9. .[Kaggle Bulldozer prediction model](https://www.kaggle.com/c/bluebook-for-bulldozers)
+9. .[Kaggle Bulldozer Price prediction model](https://www.kaggle.com/c/bluebook-for-bulldozers)
